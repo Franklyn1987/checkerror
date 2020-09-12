@@ -3,7 +3,7 @@
 首先你得先安装python3以上的版本，并且可以使用pip自动安装所需要的库。其次要去百度api申请差错别字的应用，并且获取相应id和key（不会可百度），在`correct_text.py`的第20、21行添加相应的`client_id `和`client_secret(key)`。<br>
 
 ###### 安装方法<br>
-
+使用`cmd命令`
 ```shell
 git clone https://github.com/Franklyn1987/checkerror.git
 cd root #将命令行切换至所在目录
@@ -22,6 +22,7 @@ python setup.py install
   ```
 
 ###### 使用方法二<br>
+使用`cmd命令`
 
 ```shell
 cd root #切换至checkerror的所在目录，利用chacuo.py
