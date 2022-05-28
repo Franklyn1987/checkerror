@@ -7,7 +7,7 @@
 ```shell
 git clone https://github.com/Franklyn1987/checkerror.git
 cd root #将命令行切换至所在目录
-python setup.py install
+pip install .#3.10前可以用python setup.py install
 ```
 
 ###### 使用方法一<br>
